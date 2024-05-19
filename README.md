@@ -1,7 +1,7 @@
 # PKT_Lands
 Idea:
 
-  Occupation: 1 NFT for 1 job:
+  Occupation:  1 NFT for 1 job:
   
     Farmer! Grow and feed
     Blacksmith! Manufacturing ALL
@@ -11,6 +11,6 @@ Idea:
     Guild Master! Send and receive quests from other players
      … Can do many jobs, can assign a career to Support.
 
-  P2P communication: 1 item
+  P2P communication:  1 item
 
   Support: 1 NFT, AI uses separate data for each player
