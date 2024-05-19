@@ -1,7 +1,7 @@
 # PKT_Lands
 Idea:
 
-  Occupation:  1 NFT for 1 job:
+  Occupation:  1 NFT for 1 job:  … Can do many jobs, can assign a career to Support.
   
     Farmer!             Grow and feed.
     Blacksmith!         Manufacturing ALL.
@@ -10,7 +10,7 @@ Idea:
     Chef!               Craft food that restores HP and MP.
     Guild Master!       Send and receive quests from other players.
     
-     … Can do many jobs, can assign a career to Support.
+    
 
   P2P communication:  1 item
 
