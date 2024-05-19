@@ -2,6 +2,7 @@
 Idea:
 
   Occupation: 1 NFT for 1 job:
+  
     Farmer! Grow and feed
     Blacksmith! Manufacturing ALL
     Businessman! This means that the Sever will not sell items that players can create
